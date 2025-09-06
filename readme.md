@@ -1,4 +1,5 @@
-## Hello Git this is a git guide!!
+## Hello there how are u , what are u doing!!
 
-- I am add a secind line here from 'dev-js'
+- Adding a second line from 'dev-jsm'
+- I am add a second line here from 'dev-js'
 - I am adding this from 'feature branch'
